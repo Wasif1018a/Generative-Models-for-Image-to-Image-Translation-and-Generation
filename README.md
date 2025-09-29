@@ -94,7 +94,7 @@ Run the cells sequentially to preprocess data, train and test the models, and vi
 
 ### Streamlit + ngrok Demo
 
-A **Streamlit app** is included at the end for fourth task. Running only that cell will launch the demo:
+A **Streamlit app** is included at the end for the fourth task. Running only that cell will launch the demo:
 
 with **ngrok**:
 
