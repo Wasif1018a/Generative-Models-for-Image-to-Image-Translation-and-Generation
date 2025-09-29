@@ -131,6 +131,22 @@ main.ipynb
 
 ---
 
+## 📂 Datasets Used
+
+* [Signature Verification Dataset]
+
+   ℹ️ Kaggle link: (https://www.kaggle.com/datasets/robinreni/signature-verification-dataset)
+
+* [CIFAR-10 — A classic dataset consisting of 60,000 32×32 color images in 10 classes (50,000 train + 10,000 test)]
+
+   ℹ️ Download & info: (https://www.cs.toronto.edu/~kriz/cifar.html)
+
+* [Person Face Sketches — Dataset of paired face photos and sketches (21,000+ images)]
+
+   ℹ️ Kaggle link: (https://www.kaggle.com/datasets/almightyj/person-face-sketches)
+
+---
+
 ## 📖 References
 
 * Kingma & Welling, *Auto-Encoding Variational Bayes* (2013)
