@@ -84,13 +84,13 @@ git clone <repo-link>
 cd <repo-name>
 ```
 
-Open the notebook:
+Open the notebook in Jupyter, Colab, or Kaggle (with T4 GPU enabled):
 
 ```bash
 jupyter notebook main.ipynb
 ```
 
-Run cells sequentially to train and test models.
+Run the cells sequentially to preprocess data, train and test the models, and view the evaluations.
 
 ### Streamlit + ngrok Demo
 
