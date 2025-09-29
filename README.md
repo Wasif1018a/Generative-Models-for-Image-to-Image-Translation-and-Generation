@@ -82,7 +82,6 @@ Clone and install requirements:
 ```bash
 git clone <repo-link>
 cd <repo-name>
-pip install -r requirements.txt
 ```
 
 Open the notebook:
